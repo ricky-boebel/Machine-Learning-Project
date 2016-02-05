@@ -1,6 +1,6 @@
 # Project-5
 
-Udacity Project 5 completed January 2016
+Udacity Project 5 completed 01/2016
 
 
 Project Outline
